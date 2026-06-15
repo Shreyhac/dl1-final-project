@@ -22,3 +22,4 @@ NN_project_share.zip
 .DS_Store
 __pycache__/
 *.pyc
+build_slides_pdf.py
