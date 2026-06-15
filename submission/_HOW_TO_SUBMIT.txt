@@ -1,0 +1,19 @@
+SUBMISSION CHECKLIST  (Section A, group number = G01)
+==================================================================
+Form: naming convention  Section_GroupNo_DeliverableName
+
+Upload these 4 files (files already named for Group 01):
+
+  1. A_G01_Task1_Notebook.ipynb         <- download from COLAB (must have outputs + names)
+  2. A_G01_Task2_Notebook.ipynb         <- download from COLAB (must have outputs + names)
+  3. A_G01_Final_Project_Report.pdf     <- ready in this folder
+  4. A_G01_Final_Project_Presentation.pdf <- ready in this folder
+
+Steps for the 2 notebooks:
+  - In each Colab notebook: add the team table to the header cell, Save.
+  - File -> Download -> Download .ipynb
+  - Rename to A_G01_Task1_Notebook.ipynb / A_G01_Task2_Notebook.ipynb
+  - Put them in this folder next to the PDFs.
+
+Form question "Has any member been voted out?" -> No.
+Each file max 10 MB (all current files are well under).

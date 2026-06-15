@@ -1,6 +1,6 @@
 # Deep Learning I — Final Project Report
 
-**Course:** Deep Learning I: Neural Networks (Semester 4) · **Instructor:** Priyansh Saxena
+**Course:** Deep Learning I: Neural Networks (Semester 4) · Section A · Group 1
 
 **Group members (8):** Shreyansh Arora (24BCS10252), Bhavya Patel (24BCS10420),
 Rudra Longaonkar (24BCS10312), Mohammed Rehan (24BCS10620), Avishkar Chavan (24BCS10065),
