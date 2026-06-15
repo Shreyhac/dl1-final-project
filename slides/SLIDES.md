@@ -3,7 +3,7 @@
 > Max 15 slides. **Every member must present at least one slide** — note the presenter on each.
 > Build in Google Slides/PowerPoint; paste figures exported from the notebooks.
 
-1. **Title** — "Weather Forecasting (RNN/LSTM) + CNN Filter Visualization", DL-I Sem 4. Members: Shreyansh Arora (24BCS10252), Bhavya Patel (24BCS10420), Rudra (24BCS10312), Mohammed Rehan (24BCS10620), Avishkar Chavan (24BCS10065), Milap Kothari (24BCS10004), Soham Ambore (24BCS10258), Shubh Shukla (24BCS10093). _(Presenter: Shreyansh)_
+1. **Title** — "Weather Forecasting (RNN/LSTM) + CNN Filter Visualization", DL-I Sem 4. Members: Shreyansh Arora (24BCS10252), Bhavya Patel (24BCS10420), Rudra Longaonkar (24BCS10312), Mohammed Rehan (24BCS10620), Avishkar Chavan (24BCS10065), Milap Kothari (24BCS10004), Soham Ambore (24BCS10258), Shubh Shukla (24BCS10093). _(Presenter: Shreyansh)_
 2. **Agenda & two tasks** — applied (forecasting) + experimental (CNN viz). _(__)_
 
 ### Task 1 — Time Series Forecasting

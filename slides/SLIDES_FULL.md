@@ -8,7 +8,7 @@
 ### Slide 1 — Title
 **Weather Forecasting (RNN/LSTM) & CNN Filter Visualization**
 - Deep Learning I: Neural Networks · Semester 4 · Final Project
-- Members: Shreyansh Arora (24BCS10252), Bhavya Patel (24BCS10420), Rudra (24BCS10312), Mohammed Rehan (24BCS10620), Avishkar Chavan (24BCS10065), Milap Kothari (24BCS10004), Soham Ambore (24BCS10258), Shubh Shukla (24BCS10093)
+- Members: Shreyansh Arora (24BCS10252), Bhavya Patel (24BCS10420), Rudra Longaonkar (24BCS10312), Mohammed Rehan (24BCS10620), Avishkar Chavan (24BCS10065), Milap Kothari (24BCS10004), Soham Ambore (24BCS10258), Shubh Shukla (24BCS10093)
 - *Presenter: Shreyansh*
 
 ### Slide 2 — Agenda

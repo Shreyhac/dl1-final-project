@@ -3,7 +3,7 @@
 **Course:** Deep Learning I: Neural Networks (Semester 4) · **Instructor:** Priyansh Saxena
 
 **Group members (8):** Shreyansh Arora (24BCS10252), Bhavya Patel (24BCS10420),
-Rudra (24BCS10312), Mohammed Rehan (24BCS10620), Avishkar Chavan (24BCS10065),
+Rudra Longaonkar (24BCS10312), Mohammed Rehan (24BCS10620), Avishkar Chavan (24BCS10065),
 Milap Kothari (24BCS10004), Soham Ambore (24BCS10258), Shubh Shukla (24BCS10093).
 
 ---
@@ -135,16 +135,16 @@ forecasting and exogenous features (pressure, humidity) for Task 1; deeper nets 
 Task 2.
 
 ## Member contributions
-| Member | Roll No | Contribution |
-|---|---|---|
-| Shreyansh Arora | 24BCS10252 | Project coordination; Task 1 data pipeline & preprocessing |
-| Bhavya Patel | 24BCS10420 | Task 1 RNN/LSTM model implementation & training |
-| Rudra | 24BCS10312 | Task 1 lookback-window ablation & forecast analysis |
-| Mohammed Rehan | 24BCS10620 | Task 1 baselines, metrics (MAE/RMSE) & evaluation |
-| Avishkar Chavan | 24BCS10065 | Task 2 CNN architecture & training |
-| Milap Kothari | 24BCS10004 | Task 2 evaluation: confusion matrix & training curves |
-| Soham Ambore | 24BCS10258 | Task 2 filter & feature-map visualization |
-| Shubh Shukla | 24BCS10093 | Report writing & slide deck preparation |
+| Member | Roll No | Email | Contribution |
+|---|---|---|---|
+| Shreyansh Arora | 24BCS10252 | shreyansh.24bcs10252@sst.scaler.com | Project coordination; Task 1 data pipeline & preprocessing |
+| Bhavya Patel | 24BCS10420 | bhavya.24bcs10420@sst.scaler.com | Task 1 RNN/LSTM model implementation & training |
+| Rudra Longaonkar | 24BCS10312 | rudra.24bcs10312@sst.scaler.com | Task 1 lookback-window ablation & forecast analysis |
+| Mohammed Rehan | 24BCS10620 | mohammed.24bcs10620@sst.scaler.com | Task 1 baselines, metrics (MAE/RMSE) & evaluation |
+| Avishkar Chavan | 24BCS10065 | avishkar.24bcs10065@sst.scaler.com | Task 2 CNN architecture & training |
+| Milap Kothari | 24BCS10004 | milap.24bcs10004@sst.scaler.com | Task 2 evaluation: confusion matrix & training curves |
+| Soham Ambore | 24BCS10258 | soham.24bcs10258@sst.scaler.com | Task 2 filter & feature-map visualization |
+| Shubh Shukla | 24BCS10093 | shubh.24bcs10093@sst.scaler.com | Report writing & slide deck preparation |
 
 > _Note: every member ran both notebooks end-to-end and can explain any part for the viva._
 
