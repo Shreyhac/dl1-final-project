@@ -1,0 +1,24 @@
+# Local execution env (not part of deliverables)
+.venv-run/
+
+# Datasets (auto-downloaded by the notebooks)
+data/
+jena_climate_2009_2016.csv
+jena_climate_2009_2016.csv.zip
+
+# Build scaffolding / scratch
+build_task1.py
+build_task2.py
+build_pdf.py
+make_local.py
+make_fullrun.py
+smoke_task1.py
+smoke_task2.py
+task1_local.ipynb
+task2_local.ipynb
+NN_project_share.zip
+
+# OS / misc
+.DS_Store
+__pycache__/
+*.pyc
